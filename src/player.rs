@@ -1,7 +1,6 @@
 /*
 
-  Noughts & Crosses - B00379360
-
+  Noughts & Crosses
   functionality for human player
 
 */
