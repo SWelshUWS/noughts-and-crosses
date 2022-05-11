@@ -1,6 +1,6 @@
 /*
 
-  Noughts & Crosses - B00379360
+  Noughts & Crosses
 
   board module
 
